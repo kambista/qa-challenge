@@ -71,6 +71,6 @@ D -- pruebas --> E((Prod))
 > - La documentación y la parte de redación de la prueba debe ser realizada en un archivo README.md dentro de la carpeta qa.
 > - Se tendra en cuenta los commits realizados para completar la prueba.
  
-Exitos y gracias por tu tiempo!😃
+Éxitos y gracias por tu tiempo!😃
 
 > ☝ Ante cualquier duda puedes enviar un correo a christian@kambista.com y estaremos encantados de ayudarte. 
